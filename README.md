@@ -3,7 +3,11 @@
   Price list was scraped from http://www.mypetrolprice.com/5/Petrol-price-in-Chennai and stored in csv format
 
 ## Visualization of petrol rates from 2002 to 2016
-![sd of petrol rates from 2002 to 2016](https://raw.githubusercontent.com/v-adhithyan/petrol-price-fluctuation/master/stats/petrol-rates-sd-visual.png) 
+![sd of petrol rates from 2002 to 2016](https://raw.githubusercontent.com/v-adhithyan/petrol-price-fluctuation/master/stats/petrol-rates-sd-visual.png)
+
+## Causes
+
+* Increase in crude oil rate, increases petrol price.
 
 ## Findings
 
@@ -14,3 +18,5 @@
 # links
 
 * http://www.eia.gov/energyexplained/index.cfm?page=gasoline_fluctuations
+* http://www.johnhughes.com.au/blog/prices-of-petrol-gas-fuel-prices-how-and-why-they-fluctuate/
+* http://www.eia.gov/energyexplained/index.cfm?page=gasoline_factors_affecting_prices
