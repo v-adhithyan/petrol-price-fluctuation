@@ -14,6 +14,10 @@
 
 * Increase in crude oil rate, increases petrol price.
 
+## Future work
+
+Machine learning to predict petrol prices.
+
 ## Sources
 
 * https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=petrol%20rates%20steep%20increase%20from%202010%20to%202012
