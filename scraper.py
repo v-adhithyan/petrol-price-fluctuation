@@ -46,10 +46,10 @@ for i in range(30):
         entry["rate"] = price
         entry["date"] = date
         to_csv.append(entry)
-        print "Gold rate is {} as on {}".format(price, date)
+        print "Petrol rate is Rs {} as on {}".format(price, date)
 
     pretty_print()
-    
+
     # go to next page and scrape
     chrome.find_element_by_xpath("//input[@id='CPH1_GridView1_GridViewPager_ImageButtonNext']").click()
 
